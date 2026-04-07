@@ -6,9 +6,9 @@
 </p>
 
 - 🎓 Currently studying **Computer Science** at **Taiz University**.
-- 💻 Expert in **C# .NET (WinForms)** and **C++** application development.
-- 🏦 Developer of advanced **Bank Management Systems** using OOP principles.
-- 🛠️ Deeply interested in **Software Architecture**, **Data Structures**, and **UI/UX Design**.
+- 💻 Specialized in **C# .NET (WinForms)** and **C++** application development.
+- 🕹️ Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
+- 🛠️ Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
 
 ---
 
