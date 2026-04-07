@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oday Al-Naqep (Adi Al-Naqeb)
+# 👋 Hi, I'm Oday Al-Naqep 
 ### 🚀 Computer Science Student & Software Developer | C# & C++ Specialist
 
 <p align="left">
