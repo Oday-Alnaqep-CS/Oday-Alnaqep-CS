@@ -10,6 +10,7 @@
 - 🕹️ Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
 - 🛠️ Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
 - 🏆 Completed Algorithms & Problem Solving - Level 5 (Programming Advices)
+
 ---
 
 ### 🛠️ Languages and Tools
@@ -26,7 +27,8 @@
 
 ### 📬 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oday-al-naqep-b96611401)
+
 ---
 
 ### 🖥️ Most Used Languages
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oday-al-naqep-b96611401)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight)
