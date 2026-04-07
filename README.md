@@ -26,3 +26,8 @@
 
 ### 📬 Let's Connect:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Oday-Alnaqep-CS)
+
+---
+
+### 🖥️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight)
