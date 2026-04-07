@@ -25,18 +25,21 @@
 
 ---
 
+---
+
 ### 📬 Let's Connect:
-<p align="left">
-<a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/Dev_Oday_AlNaqep" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://wa.me/967783042889" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
+
+**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oday-al-naqep-b96611401)
+
+**Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dev_Oday_AlNaqep)
+
+**WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967783042889)
 
 ---
 
 ### 🖥️ Most Used Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
+**My Coding Stats:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight)
 
 ---
