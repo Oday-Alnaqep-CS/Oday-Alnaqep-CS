@@ -26,20 +26,22 @@
 ---
 
 ---
+---
 
 ### 📬 Let's Connect:
 
-**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oday-al-naqep-b96611401)
+🔹 **LinkedIn:** &nbsp; [![LinkedIn](https://img.shields.io/badge/Oday_Al--Naqep-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oday-al-naqep-b96611401)
 
-**Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dev_Oday_AlNaqep)
+🔹 **Telegram:** &nbsp; [![Telegram](https://img.shields.io/badge/@Dev__Oday__AlNaqep-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Dev_Oday_AlNaqep)
 
-**WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967783042889)
+🔹 **WhatsApp:** &nbsp; [![WhatsApp](https://img.shields.io/badge/+967_783_042_889-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/967783042889)
 
 ---
 
-### 🖥️ Most Used Languages
+### 🖥️ Technical Skills & Stats
 
-**My Coding Stats:**
+**Programming Languages Distribution:**
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight)
 
 ---
