@@ -27,15 +27,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" height="170" />
 </p>
 
----
-
-### 🌟 Featured Projects
-
-| <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" /> | <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" /> |
-| :--- | :--- |
-| ### 🎮 Rock-Paper-Scissors | ### 🤖 Tic-Tac-Toe AI |
-| Developed using **C# WinForms**, focusing on **OOP** and custom UI design. | Advanced **Tic-Tac-Toe** featuring predictive algorithms and neon visuals. |
-| [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
 
 ---
 
