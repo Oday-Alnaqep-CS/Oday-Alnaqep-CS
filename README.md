@@ -28,13 +28,16 @@
 </p>
 
 ---
+
+
 ## 🌟 Featured Projects
 
-| <img src="https://i.ibb.co/v4b24g1/rock-paper-scissors-oday.png" width="100%" /> | <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" /> |
+| <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" /> | <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" /> |
 | :--- | :--- |
 | ### 🎮 Rock-Paper-Scissors | ### 🤖 Tic-Tac-Toe AI |
-| A Logic-based game developed using **C# WinForms**, focusing on clean code principles and specialized Noir-style UI. | Advanced Tic-Tac-Toe featuring **Predictive Algorithms** and professional neon visuals. |
+| A Logic-based game developed using **C# WinForms**, focusing on clean code principles and **Cinematic Noir** UI. | Advanced Tic-Tac-Toe featuring **Predictive Algorithms** and professional neon visuals. |
 | [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
+
 
 ---
 ### 📬 Let's Connect:
