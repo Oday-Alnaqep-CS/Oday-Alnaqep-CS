@@ -31,48 +31,44 @@
 
 ---
 
-## <p align="center">🌟 Featured Desktop Projects</p>
-
-<table border="0" align="center" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center"><h3>🎮 Rock-Paper-Scissors (Noir)</h3></td>
-    <td align="center"><h3>🤖 Tic-Tac-Toe AI System</h3></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="100%" style="border-radius:15px; border: 2px solid #3498db; box-shadow: 0 0 15px rgba(52, 152, 219, 0.4);" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="100%" style="border-radius:15px; border: 2px solid #2ecc71; box-shadow: 0 0 15px rgba(46, 204, 113, 0.4);" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-3498DB?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
-        <img src="https://img.shields.io/badge/OPEN_SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
+## <p align="center">🌟 Featured Masterpieces</p>
 
 <div align="center">
-  <h3>🍔 Burger Order System (Selection Logic)</h3>
-  <img src="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic/blob/main/photo_2026-04-07_22-44-19.jpg?raw=true" width="80%" style="border-radius:15px; border: 2px solid #e67e22; box-shadow: 0 0 15px rgba(230, 126, 34, 0.4);" />
-  <br /><br />
-  <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic" target="blank">
-    <img src="https://img.shields.io/badge/VIEW_UI_LOGIC-E67E22?style=for-the-badge&logo=target&logoColor=white" />
-  </a>
+  <table border="0" cellpadding="0" cellspacing="15">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+          <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="80%" style="border-radius:10px;" alt="RPS Screen" />
+          <br /><br />
+          <b>🎮 Rock-Paper-Scissors (Noir)</b>
+          <br />
+          <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
+          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
+          <br /><br />
+          <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
+            <img src="https://img.shields.io/badge/EXPLORE_CODE-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo" />
+          </a>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+          <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="80%" style="border-radius:10px;" alt="TTT Screen" />
+          <br /><br />
+          <b>🤖 Tic-Tac-Toe AI System</b>
+          <br />
+          <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
+          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
+          <br /><br />
+          <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
+            <img src="https://img.shields.io/badge/OPEN_SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
-
 ### 🛠 Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,github,git,windows,discord" />
