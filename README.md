@@ -18,23 +18,23 @@
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,github,git,windows,discord" />
 </p>
 
+---
+
 ### 📊 GitHub Activity Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=tokyonight" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=tokyonight" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
-
-
 ## 🌟 Featured Projects
 
-| <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/main/Screenshots/preview.png" width="300px" /> | <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/main/Screenshots/preview.png" width="300px" /> |
+| <img src="https://i.ibb.co/v4b24g1/rock-paper-scissors-oday.png" width="100%" /> | <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" /> |
 | :--- | :--- |
-| **Rock Paper Scissors Game** | **Tic-Tac-Toe AI** |
-| A Logic-based game developed using **C# WinForms**, focusing on clean code and UI/UX. | Advanced Tic-Tac-Toe featuring **AI Predictive Algorithms** and Neon Visuals. |
-| [🔗 View Project](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [🔗 View Project](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
+| ### 🎮 Rock-Paper-Scissors | ### 🤖 Tic-Tac-Toe AI |
+| A Logic-based game developed using **C# WinForms**, focusing on clean code principles and specialized Noir-style UI. | Advanced Tic-Tac-Toe featuring **Predictive Algorithms** and professional neon visuals. |
+| [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
 
 ---
 ### 📬 Let's Connect:
