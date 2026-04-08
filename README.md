@@ -26,29 +26,17 @@
 ---
 
 ### 📬 Let's Connect:
-
----
-
-### 📬 Let's Connect:
-
-<p>
-  <b>LinkedIn:</b> &nbsp; <a href="https://www.linkedin.com/in/oday-al-naqep-b96611401"><img src="https://img.shields.io/badge/Oday_Al--Naqep-0077B5?style=flat&logo=linkedin&logoColor=white" valign="middle"></a>
-</p>
-
-<p>
-  <b>Telegram:</b> &nbsp; <a href="https://t.me/Dev_Oday_AlNaqep"><img src="https://img.shields.io/badge/@Dev__Oday__AlNaqep-2CA5E0?style=flat&logo=telegram&logoColor=white" valign="middle"></a>
-</p>
-
-<p>
-  <b>WhatsApp:</b> &nbsp; <a href="https://wa.me/967783042889"><img src="https://img.shields.io/badge/+967_783_042_889-25D366?style=flat&logo=whatsapp&logoColor=white" valign="middle"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/Dev_Oday_AlNaqep" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://wa.me/967783042889" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
-### 🖥️ Technical Skills & Stats
-
-<b>Programming Languages Distribution:</b>
-<br><br>
+### 🖥️ Most Used Languages
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
