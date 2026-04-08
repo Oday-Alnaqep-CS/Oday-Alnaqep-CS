@@ -28,11 +28,26 @@
 | <a href="https://taiz.edu.ye/" target="_blank"><img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/OIP%20(2).webp?raw=true" width="22px" valign="middle" /> <b>Taiz University</b></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/photo_2026-04-08_15-14-44.jpg?raw=true" width="22px" valign="middle" /> <b>Programming Advices</b></a> |
 | *Official Academic Site* | *Logic & Algorithms Specialist* |
 
-</div>
-
 ---
 
 ## <p align="center">🌟 Featured Masterpieces</p>
+
+<div align="center">
+  <div style="width: 95%; border-radius:15px; border: 2px solid #3498DB; padding: 25px; box-shadow: 0 6px 12px rgba(52, 152, 219, 0.2);">
+    <h3>🏦 Advanced Bank Management System (OOP)</h3>
+    <p>An industrial-grade banking solution built with <b>C++</b>. It features a strict <b>Layered Architecture</b>, secure <b>RBAC</b> (Role-Based Access Control), and complex financial logic.</p>
+    <img src="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP/blob/main/Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-06.jpg?raw=true" width="75%" style="border-radius:10px; border: 1px solid #3498DB;" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Architecture-Modular_OOP-3498DB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Security-RBAC_Model-red?style=flat-square" />
+    <br /><br />
+    <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP" target="blank">
+      <img src="https://img.shields.io/badge/EXPLORE_BANK_SYSTEM-3498DB?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+<br />
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="15">
@@ -66,23 +81,6 @@
     </tr>
   </table>
 </div>
-
-<br />
-<div align="center">
-  <div style="width: 95%; border-radius:15px; border: 2px solid #e67e22; padding: 25px; box-shadow: 0 6px 12px rgba(230, 126, 34, 0.2);">
-    <h3>🍔 Burger Order System (The Royal Feast)</h3>
-    <p>A sophisticated <b>C# WinForms</b> application featuring custom selection logic and a high-end cinematic user interface.</p>
-    <img src="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic/blob/main/photo_2026-04-07_22-44-19.jpg?raw=true" width="75%" style="border-radius:10px; border: 1px solid #e67e22;" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Logic-Selection%20System-e67e22?style=flat-square" />
-    <img src="https://img.shields.io/badge/UI-Cinematic%20Noir-34495e?style=flat-square" />
-    <br /><br />
-    <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic" target="blank">
-      <img src="https://img.shields.io/badge/VIEW_ORDER_SYSTEM-E67E22?style=for-the-badge&logo=fastapi&logoColor=white" />
-    </a>
-  </div>
-</div>
-
 ---
 ### 🛠 Languages and Tools
 <p align="left">
