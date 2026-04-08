@@ -37,7 +37,7 @@
   <table border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td width="50%" align="center">
-        <img src="[https://raw.githubusercontent.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/main/Resources/GameImage.png](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-10-05.jpg?raw=true)" width="100%" style="border-radius:12px; border: 2px solid #3498db;" />
+        <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-10-05.jpg?raw=true" width="100%" style="border-radius:12px; border: 2px solid #3498db;" />
         <br />
         <b>🎮 Rock-Paper-Scissors (Noir)</b><br />
         <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game">
