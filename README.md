@@ -20,41 +20,29 @@
 
 ---
 
-### 📊 GitHub Activity Stats
-
+### 📊 GitHub Professional Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=tokyonight" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
+### 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
-| <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" /> | <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" /> |
+| <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" /> | <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" /> |
 | :--- | :--- |
 | ### 🎮 Rock-Paper-Scissors | ### 🤖 Tic-Tac-Toe AI |
-| A Logic-based game developed using **C# WinForms**, focusing on clean code principles and **Cinematic Noir** UI. | Advanced Tic-Tac-Toe featuring **Predictive Algorithms** and professional neon visuals. |
+| Developed using **C# WinForms**, focusing on **OOP** and custom UI design. | Advanced **Tic-Tac-Toe** featuring predictive algorithms and neon visuals. |
 | [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [🔗 View Repository](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
 
-
 ---
+
 ### 📬 Let's Connect:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  ---
 <a href="https://t.me/Dev_Oday_AlNaqep" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  ---
 <a href="https://wa.me/967783042889" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
-
----
-
-### 🖥️ Most Used Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
