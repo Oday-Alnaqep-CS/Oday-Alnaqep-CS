@@ -24,7 +24,7 @@
 
 | 🎓 Institution | 🏆 Professional Mastery |
 | :--- | :--- |
-| <a href="https://taiz.edu.ye/" target="_blank"><img src="https://img.shields.io/badge/Taiz_University-Official_Site-0056b3?style=for-the-badge&logo=google-scholar&logoColor=white" /></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://img.shields.io/badge/Programming_Advices-Level_5-ff9f43?style=for-the-badge&logo=codeforces&logoColor=white" /></a> |
+| <a href="https://taiz.edu.ye/" target="_blank"><img src="https://img.shields.io/badge/Taiz_University-Official_Site-0056b3?style=for-the-badge&logo=google-scholar&logoColor=white" /></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://img.shields.io/badge/Programming_Advices-Level_5-101010?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABX0lEQVQ4jY2TsUvDQBSHv9fEunTToVARpLogToKTo6AtSAs669Chf4K6Ofkf9B9wEBycnS0IDm666SCoS8GlS8GlS6GlS6GlS8GlS8GlS8GlS6GlS8GlS6GlS6GlS8GlS6GlS6GlS8GlS6GlS6GlS6GlS8GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS6GlS8GlS8H/AK9HeO26BvG9AAAAAElFTkSuQmCC&logoColor=white" /></a> |
 | *Computer Science Student* | *Logic & Algorithms Specialist* |
 
 </div>
