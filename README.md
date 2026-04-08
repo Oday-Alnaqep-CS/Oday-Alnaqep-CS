@@ -25,23 +25,30 @@
 
 ---
 
----
----
+### 📬 Let's Connect:
+
 ---
 
 ### 📬 Let's Connect:
 
-* **LinkedIn Profile** [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oday-al-naqep-b96611401)
+<p>
+  <b>LinkedIn:</b> &nbsp; <a href="https://www.linkedin.com/in/oday-al-naqep-b96611401"><img src="https://img.shields.io/badge/Oday_Al--Naqep-0077B5?style=flat&logo=linkedin&logoColor=white" valign="middle"></a>
+</p>
 
-* **Telegram Channel/Chat** [![Telegram](https://img.shields.io/badge/Message_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dev_Oday_AlNaqep)
+<p>
+  <b>Telegram:</b> &nbsp; <a href="https://t.me/Dev_Oday_AlNaqep"><img src="https://img.shields.io/badge/@Dev__Oday__AlNaqep-2CA5E0?style=flat&logo=telegram&logoColor=white" valign="middle"></a>
+</p>
 
-* **WhatsApp Contact** [![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967783042889)
+<p>
+  <b>WhatsApp:</b> &nbsp; <a href="https://wa.me/967783042889"><img src="https://img.shields.io/badge/+967_783_042_889-25D366?style=flat&logo=whatsapp&logoColor=white" valign="middle"></a>
+</p>
 
 ---
 
 ### 🖥️ Technical Skills & Stats
 
-**Programming Languages Distribution:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight)
+<b>Programming Languages Distribution:</b>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 ---
