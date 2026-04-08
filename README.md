@@ -13,45 +13,59 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=ODAY%20AL-NAQEP&fontSize=75&fontAlignY=35&animation=twinkle&fontColor=3498DB" width="100%" />
+</p>
 
-<h2 align="center">🌟 Featured Masterpieces</h2>
+---
+
+### 🏛️ Credentials & Affiliations
+<div align="center">
+
+| 🎓 Institution | 🏆 Professional Certification |
+| :--- | :--- |
+| <a href="https://taiz.edu.ye/" target="_blank"><img src="https://img.shields.io/badge/Taiz_University-Student-0056b3?style=for-the-badge&logo=google-scholar&logoColor=white" /></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://img.shields.io/badge/Programming_Advices-Level_5-ff9f43?style=for-the-badge&logo=codeforces&logoColor=white" /></a> |
+| *Computer Science Department* | *Logic & Algorithms Specialist* |
+
+</div>
+
+---
+
+### 🌟 Elite Featured Projects
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="15">
+  <table border="0" cellpadding="0" cellspacing="10">
     <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="RPS Screen" />
-          <br /><br />
-          <b>🎮 Rock-Paper-Scissors (Noir)</b>
-          <br />
-          <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
-          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
-          <br /><br />
-          <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
-            <img src="https://img.shields.io/badge/LAUNCH_PROJECT-3498DB?style=for-the-badge&logo=rocket&logoColor=white" alt="Visit Repo" />
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/main/Resources/GameImage.png" width="100%" style="border-radius:12px; border: 2px solid #3498db;" />
+        <br />
+        <b>🎮 Rock-Paper-Scissors (Noir)</b><br />
+        <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game">
+          <img src="https://img.shields.io/badge/EXPLORE_CODE-3498DB?style=for-the-badge&logo=github" />
+        </a>
       </td>
-      
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="TTT Screen" />
-          <br /><br />
-          <b>🤖 Tic-Tac-Toe AI System</b>
-          <br />
-          <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
-          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
-          <br /><br />
-          <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
-            <img src="https://img.shields.io/badge/SOURCE_CODE-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius:12px; border: 2px solid #2ecc71;" />
+        <br />
+        <b>🤖 Tic-Tac-Toe AI Engine</b><br />
+        <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game">
+          <img src="https://img.shields.io/badge/EXPLORE_CODE-2ECC71?style=for-the-badge&logo=github" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+### 🛠️ Tech Stack & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,github,git" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=3498DB" height="170" />
+</p>
 ---
 ### 🛠 Languages and Tools
 <p align="left">
