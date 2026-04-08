@@ -89,9 +89,30 @@
 
 ---
 
-### 📬 Let's Connect:
-<p align="left">
-<a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/Dev_Oday_AlNaqep" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://wa.me/967783042889" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=400&lines=🤝+GET+IN+TOUCH;ODAY+AL-NAQEP" alt="Oday Name" />
+
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+
+  <a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/Dev_Oday_AlNaqep" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/967783042889" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="mailto:odayalnaqep.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br /><br />
+  
+  <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/main/Resources/line_divider.png" width="100%" />
+  <p align="center"><i>Designed with 💙 by Oday Al-Naqep</i></p>
+</div>
