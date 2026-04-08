@@ -11,10 +11,11 @@
 
 ### 👤 About Me
 <blockquote>
-  <p>🎓 <b>University:</b> Computer Science Student at Taiz University.</p>
-  <p>💻 <b>Expertise:</b> Specialized in C# .NET (WinForms) & C++ Development.</p>
-  <p>🛠️ <b>Interests:</b> High-End UI/UX Design & Complex Logic Building.</p>
-  <p>🏆 <b>Focus:</b> Advanced Algorithms & Problem Solving (Level 5).</p>
+ - 🎓 Currently studying **Computer Science** at **Taiz University**.
+- 💻 Specialized in **C# .NET (WinForms)** and **C++** application development.
+- 🕹️ Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
+- 🛠️ Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
+- 🏆 Completed Algorithms & Problem Solving - Level 5 (Programming Advices)
 </blockquote>
 
 ---
@@ -44,3 +45,21 @@
   <a href="https://t.me/Dev_Oday_AlNaqep"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/967783042889"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
