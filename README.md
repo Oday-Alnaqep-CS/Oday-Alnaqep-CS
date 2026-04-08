@@ -13,13 +13,47 @@
 
 ---
 
-### 🌟 Featured Desktop Projects
 
-| <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="400" /> | <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="400" /> |
-| :--- | :--- |
-| **🎮 Rock-Paper-Scissors (Noir Edition)** | **🤖 Tic-Tac-Toe AI System** |
-| High-performance desktop game with custom C# logic. | Advanced AI with neon-themed cinematic UI. |
-| [📂 View Repository](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [📂 View Repository](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
+## <p align="center">🌟 Featured Desktop Projects</p>
+
+<table border="0" align="center" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><h3>🎮 Rock-Paper-Scissors (Noir)</h3></td>
+    <td align="center"><h3>🤖 Tic-Tac-Toe AI System</h3></td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="RPS Screen" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="TTT Screen" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="left" valign="top">
+      <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
+      <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
+    </td>
+    <td align="left" valign="top">
+      <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
+      <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="padding-top: 20px;">
+      <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
+        <img src="https://img.shields.io/badge/Visit_Project-📂-3498db?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo" />
+      </td>
+    <td align="center" style="padding-top: 20px;">
+      <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
+        <img src="https://img.shields.io/badge/Open_Source-🛠️-2ecc71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
