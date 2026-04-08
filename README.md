@@ -14,49 +14,45 @@
 ---
 
 
-## <p align="center">🌟 Featured Desktop Projects</p>
+<h2 align="center">🌟 Featured Masterpieces</h2>
 
-<table border="0" align="center" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center"><h3>🎮 Rock-Paper-Scissors (Noir)</h3></td>
-    <td align="center"><h3>🤖 Tic-Tac-Toe AI System</h3></td>
-  </tr>
-  
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="RPS Screen" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="TTT Screen" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left" valign="top">
-      <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
-      <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
-    </td>
-    <td align="left" valign="top">
-      <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
-      <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" style="padding-top: 20px;">
-      <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
-        <img src="https://img.shields.io/badge/Visit_Project-📂-3498db?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo" />
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="15">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/Resources/GameImage.png?raw=true" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="RPS Screen" />
+          <br /><br />
+          <b>🎮 Rock-Paper-Scissors (Noir)</b>
+          <br />
+          <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
+          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
+          <br /><br />
+          <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
+            <img src="https://img.shields.io/badge/LAUNCH_PROJECT-3498DB?style=for-the-badge&logo=rocket&logoColor=white" alt="Visit Repo" />
+          </a>
+        </div>
       </td>
-    <td align="center" style="padding-top: 20px;">
-      <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
-        <img src="https://img.shields.io/badge/Open_Source-🛠-2ecc71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
-      </a>
-    </td>
-  </tr>
-</table>
+      
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="TTT Screen" />
+          <br /><br />
+          <b>🤖 Tic-Tac-Toe AI System</b>
+          <br />
+          <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
+          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
+          <br /><br />
+          <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
+            <img src="https://img.shields.io/badge/SOURCE_CODE-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-
 ### 🛠 Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,github,git,windows,discord" />
