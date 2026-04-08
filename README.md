@@ -11,6 +11,13 @@
 
 ---
 
+- 🎓 Currently studying Computer Science at **Taiz University**.
+- 💻 Specialized in **C# .NET (WinForms)** and **C++** application development.
+- 🕹 Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
+- 🛠 Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
+- 🏆 Completed **Algorithms & Problem Solving - Level 5** (@Programming Advices)
+---
+
 ### 🏛️ Professional Credentials
 <div align="center">
 
@@ -20,14 +27,6 @@
 | *Computer Science Student* | *Logic & Algorithms Specialist* |
 
 </div>
-
----
-
-- 🎓 Currently studying Computer Science at **Taiz University**.
-- 💻 Specialized in **C# .NET (WinForms)** and **C++** application development.
-- 🕹 Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
-- 🛠 Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
-- 🏆 Completed **Algorithms & Problem Solving - Level 5** (@Programming Advices)
 
 ---
 
