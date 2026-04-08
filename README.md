@@ -20,11 +20,23 @@
 
 ### 📊 GitHub Activity Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=tokyonight" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
+
+## 🌟 Featured Projects
+
+| <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/main/Screenshots/preview.png" width="300px" /> | <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/main/Screenshots/preview.png" width="300px" /> |
+| :--- | :--- |
+| **Rock Paper Scissors Game** | **Tic-Tac-Toe AI** |
+| A Logic-based game developed using **C# WinForms**, focusing on clean code and UI/UX. | Advanced Tic-Tac-Toe featuring **AI Predictive Algorithms** and Neon Visuals. |
+| [🔗 View Project](https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game) | [🔗 View Project](https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game) |
+
+---
 ### 📬 Let's Connect:
 <p align="left">
 <a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
