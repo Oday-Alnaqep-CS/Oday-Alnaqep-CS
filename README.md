@@ -28,7 +28,10 @@
 | *Computer Science Student* | *Logic & Algorithms Specialist* |
 
 </div>
-
+<a href="https://programmingadvices.com/">
+  <img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/photo_2026-04-08_15-14-44.jpg?raw=true" width="25px" valign="middle" /> 
+  <b>Programming Advices (Level 5)</b>
+</a>
 ---
 
 ## <p align="center">🌟 Featured Desktop Projects</p>
