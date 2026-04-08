@@ -38,34 +38,48 @@
     <tr>
       <td width="50%" valign="top">
         <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-          <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="80%" style="border-radius:10px;" alt="RPS Screen" />
+          <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="85%" style="border-radius:10px;" />
           <br /><br />
           <b>🎮 Rock-Paper-Scissors (Noir)</b>
-          <br />
-          <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
-          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
+          <p>High-performance desktop game with custom <b>C# WinForms</b> logic.</p>
+          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" />
           <br /><br />
           <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
-            <img src="https://img.shields.io/badge/EXPLORE_CODE-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo" />
+            <img src="https://img.shields.io/badge/EXPLORE-3498DB?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
       </td>
       <td width="50%" valign="top">
         <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-          <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="80%" style="border-radius:10px;" alt="TTT Screen" />
+          <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="85%" style="border-radius:10px;" />
           <br /><br />
           <b>🤖 Tic-Tac-Toe AI System</b>
-          <br />
-          <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
-          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
+          <p>Advanced AI with specialized predictive algorithms and neon UI.</p>
+          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" />
           <br /><br />
           <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
-            <img src="https://img.shields.io/badge/OPEN_SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
+            <img src="https://img.shields.io/badge/SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
       </td>
     </tr>
   </table>
+</div>
+
+<br />
+<div align="center">
+  <div style="width: 95%; border-radius:15px; border: 2px solid #e67e22; padding: 25px; box-shadow: 0 6px 12px rgba(230, 126, 34, 0.2);">
+    <h3>🍔 Burger Order System (The Royal Feast)</h3>
+    <p>A sophisticated <b>C# WinForms</b> application featuring custom selection logic and a high-end cinematic user interface.</p>
+    <img src="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic/blob/main/photo_2026-04-07_22-44-19.jpg?raw=true" width="75%" style="border-radius:10px; border: 1px solid #e67e22;" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Logic-Selection%20System-e67e22?style=flat-square" />
+    <img src="https://img.shields.io/badge/UI-Cinematic%20Noir-34495e?style=flat-square" />
+    <br /><br />
+    <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic" target="blank">
+      <img src="https://img.shields.io/badge/VIEW_ORDER_SYSTEM-E67E22?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 ---
