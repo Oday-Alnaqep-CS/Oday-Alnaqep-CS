@@ -21,10 +21,11 @@
 ---
 
 ### 📊 GitHub Activity Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=tokyonight" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oday-Alnaqep-CS&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oday-Alnaqep-CS&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170" alt="Top Langs" />
 </p>
 
 ---
