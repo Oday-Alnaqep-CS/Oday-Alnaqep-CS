@@ -24,14 +24,11 @@
 
 | 🎓 Institution | 🏆 Professional Mastery |
 | :--- | :--- |
-| <a href="https://taiz.edu.ye/" target="_blank"><img src="https://img.shields.io/badge/Taiz_University-Official_Site-0056b3?style=for-the-badge&logo=google-scholar&logoColor=white" /></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://img.shields.io/badge/Programming_Advices-Level_5-101010?style=for-the-badge&logo=data:image/webp;base64,UklGRi4AAABXRUJQVlA4TCEAAAAvAAAAEAcQERGIiP4HAA==&logoColor=white" /></a> |
-| *Computer Science Student* | *Logic & Algorithms Specialist* |
+| <a href="https://taiz.edu.ye/" target="_blank"><img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/OIP%20(2).webp?raw=true" width="22px" valign="middle" /> <b>Taiz University</b></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/photo_2026-04-08_15-14-44.jpg?raw=true" width="22px" valign="middle" /> <b>Programming Advices</b></a> |
+| *Official Academic Site* | *Logic & Algorithms Specialist* |
 
 </div>
-<a href="https://programmingadvices.com/">
-  <img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/photo_2026-04-08_15-14-44.jpg?raw=true" width="25px" valign="middle" /> 
-  <b>Programming Advices (Level 5)</b>
-</a>
+
 ---
 
 ## <p align="center">🌟 Featured Desktop Projects</p>
