@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oday Al-Naqep 
+# 👋 Hi, I'm Oday Al-Naqep 
 ### 🚀 Computer Science Student & Software Developer | C# & C++ Specialist
 
 <p align="center">
@@ -16,6 +16,7 @@
 - 🕹 Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
 - 🛠 Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
 - 🏆 Completed **Algorithms & Problem Solving - Level 5** (@Programming Advices)
+
 ---
 
 ### 🏛️ Professional Credentials
@@ -37,40 +38,38 @@
     <td align="center"><h3>🎮 Rock-Paper-Scissors (Noir)</h3></td>
     <td align="center"><h3>🤖 Tic-Tac-Toe AI System</h3></td>
   </tr>
-  
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-10-05.jpg?raw=true" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="RPS Screen" />
+      <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="100%" style="border-radius:15px; border: 2px solid #3498db; box-shadow: 0 0 15px rgba(52, 152, 219, 0.4);" />
     </td>
     <td width="50%" align="center">
-      <img src="https://i.ibb.co/sK64h6W/tic-tac-toe-oday.png" width="100%" style="border-radius:15px; border: 2px solid #34495e; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="TTT Screen" />
+      <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="100%" style="border-radius:15px; border: 2px solid #2ecc71; box-shadow: 0 0 15px rgba(46, 204, 113, 0.4);" />
     </td>
   </tr>
-  
   <tr>
-    <td align="left" valign="top">
-      <p>High-performance desktop game with custom <b>C# WinForms</b> logic and Noir interface.</p>
-      <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" alt="stack" />
-    </td>
-    <td align="left" valign="top">
-      <p>Advanced AI with specialized predictive algorithms and neon-themed cinematic UI.</p>
-      <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" alt="stack" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" style="padding-top: 20px;">
+    <td align="center">
       <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
-        <img src="https://img.shields.io/badge/Visit_Project-📂-3498db?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo" />
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-3498DB?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td align="center" style="padding-top: 20px;">
+    <td align="center">
       <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
-        <img src="https://img.shields.io/badge/Open_Source-🛠-2ecc71?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
+        <img src="https://img.shields.io/badge/OPEN_SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
+
+<br />
+
+<div align="center">
+  <h3>🍔 Burger Order System (Selection Logic)</h3>
+  <img src="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic/blob/main/photo_2026-04-07_22-44-19.jpg?raw=true" width="80%" style="border-radius:15px; border: 2px solid #e67e22; box-shadow: 0 0 15px rgba(230, 126, 34, 0.4);" />
+  <br /><br />
+  <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic" target="blank">
+    <img src="https://img.shields.io/badge/VIEW_UI_LOGIC-E67E22?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -91,9 +90,8 @@
 ---
 
 ### 📬 Let's Connect:
-
 <p align="left">
-<a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/Dev_Oday_AlNaqep" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://wa.me/967783042889" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/oday-al-naqep-b96611401" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/Dev_Oday_AlNaqep" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://wa.me/967783042889" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
