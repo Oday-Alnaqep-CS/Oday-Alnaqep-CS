@@ -29,6 +29,28 @@
 | *Official Academic Site* | *Logic & Algorithms Specialist* |
 
 ---
+<div align="center">
+  <details>
+    <summary><b>🚀 Select a Project to Explore (Click to expand)</b></summary>
+    <br>
+    <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP" target="_blank">
+      <img src="https://img.shields.io/badge/🏦_Bank_Management-OOP_System-3498DB?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    </a>
+    <br><br>
+    <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="_blank">
+      <img src="https://img.shields.io/badge/🎮_Rock_Paper_Scissors-Noir_Edition-E67E22?style=for-the-badge&logo=csharp&logoColor=white" />
+    </a>
+    <br><br>
+    <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="_blank">
+      <img src="https://img.shields.io/badge/🤖_Tic_Tac_Toe-AI_Logic-2ECC71?style=for-the-badge&logo=dotnet&logoColor=white" />
+    </a>
+    <br><br>
+    <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic" target="_blank">
+      <img src="https://img.shields.io/badge/🍔_Royal_Feast-Order_System-FFD700?style=for-the-badge&logo=fastapi&logoColor=black" />
+    </a>
+
+  </details>
+</div>
 
 ## <p align="center">🌟 Featured Masterpieces</p>
 
