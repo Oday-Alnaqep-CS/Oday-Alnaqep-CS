@@ -28,6 +28,8 @@
 | <a href="https://taiz.edu.ye/" target="_blank"><img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/OIP%20(2).webp?raw=true" width="22px" valign="middle" /> <b>Taiz University</b></a> | <a href="https://programmingadvices.com/" target="_blank"><img src="https://github.com/Oday-Alnaqep-CS/Oday-Alnaqep-CS/blob/main/photo_2026-04-08_15-14-44.jpg?raw=true" width="22px" valign="middle" /> <b>Programming Advices</b></a> |
 | *Official Academic Site* | *Logic & Algorithms Specialist* |
 
+</div>
+
 ---
 <div align="center">
   <details>
@@ -66,6 +68,10 @@
     <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP" target="blank">
       <img src="https://img.shields.io/badge/EXPLORE_BANK_SYSTEM-3498DB?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </a>
+    &nbsp;
+    <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP/archive/refs/heads/main.zip">
+      <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </div>
 </div>
 
@@ -83,7 +89,11 @@
           <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" />
           <br /><br />
           <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
-            <img src="https://img.shields.io/badge/EXPLORE-3498DB?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/SOURCE-3498DB?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          &nbsp;
+          <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/archive/refs/heads/main.zip">
+            <img src="https://img.shields.io/badge/DOWNLOAD-E67E22?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
       </td>
@@ -97,6 +107,10 @@
           <br /><br />
           <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
             <img src="https://img.shields.io/badge/SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          &nbsp;
+          <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/archive/refs/heads/main.zip">
+            <img src="https://img.shields.io/badge/DOWNLOAD-27AE60?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
       </td>
@@ -147,31 +161,3 @@
   <img src="https://raw.githubusercontent.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/main/Resources/line_divider.png" width="100%" />
   <p align="center"><i>Designed with 💙 by Oday Al-Naqep</i></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
