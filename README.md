@@ -64,8 +64,7 @@
   </details>
 </div>
 ---
-## <p align="center">🌟 Featured Masterpieces</p>
-
+<p align="center">🌟 Featured Masterpieces</p>
 <div align="center">
   <div style="width: 95%; border-radius:15px; border: 2px solid #3498DB; padding: 25px; box-shadow: 0 6px 12px rgba(52, 152, 219, 0.2);">
     <h3>🏦 Advanced Bank Management System (OOP)</h3>
