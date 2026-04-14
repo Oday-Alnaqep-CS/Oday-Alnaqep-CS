@@ -9,11 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=Oday-Alnaqep-CS&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
+
 ---
 
 - 🎓 Currently studying Computer Science at **Taiz University**.
 - 💻 Specialized in **C# .NET (WinForms)** and **C++** application development.
-- 🚀 **GitHub Student Developer** | Leveraging professional tools for advanced solutions.
+- 🕹 Developed interactive desktop games like **Rock Paper Scissors** and **Tic-Tac-Toe**.
 - 🛠 Deeply interested in **OOP Principles**, **Logic Building**, and **UI/UX Design**.
 - 🏆 Completed **Algorithms & Problem Solving - Level 5** (@Programming Advices)
 
@@ -34,13 +35,6 @@
   <details>
     <summary><b>🚀 Select a Project to Explore & Download (Click to expand)</b></summary>
     <br>
-    <a href="https://github.com/Oday-Alnaqep-CS/Calculator-App" target="_blank">
-      <img src="https://img.shields.io/badge/🧮_Scientific_Calc-Explore-9B59B6?style=for-the-badge&logo=csharp&logoColor=white" />
-    </a>
-    <a href="https://github.com/Oday-Alnaqep-CS/Calculator-App/archive/refs/heads/main.zip">
-      <img src="https://img.shields.io/badge/Download-ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <br><br>
     <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP" target="_blank">
       <img src="https://img.shields.io/badge/🏦_Bank_Management-Explore-3498DB?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </a>
@@ -61,59 +55,39 @@
     <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/archive/refs/heads/main.zip">
       <img src="https://img.shields.io/badge/Download-ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <br><br>
+    <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic" target="_blank">
+      <img src="https://img.shields.io/badge/🍔_Royal_Feast-Explore-FFD700?style=for-the-badge&logo=dotnet&logoColor=black" />
+    </a>
+    <a href="https://github.com/Oday-Alnaqep-CS/Burger-Order-System-UI-Selection-Logic/archive/refs/heads/main.zip">
+      <img src="https://img.shields.io/badge/Download-ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+
   </details>
 </div>
-
----
 
 ---
 
 ## <p align="center">🌟 Featured Masterpieces</p>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="15">
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center" style="border-radius:15px; border: 2px solid #3498DB; padding: 25px; box-shadow: 0 6px 12px rgba(52, 152, 219, 0.2); height: 100%;">
-          <h3>🏦 Advanced Bank System (OOP)</h3>
-          <p>Industrial-grade banking solution built with <b>C++</b>. Layered Architecture, RBAC, and complex financial logic.</p>
-          <img src="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP/blob/main/Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-06.jpg?raw=true" width="85%" style="border-radius:10px; border: 1px solid #3498DB;" />
-          <br /><br />
-          <img src="https://img.shields.io/badge/Architecture-Modular_OOP-3498DB?style=flat-square" />
-          <img src="https://img.shields.io/badge/Security-RBAC_Model-red?style=flat-square" />
-          <br /><br />
-          <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP" target="blank">
-            <img src="https://img.shields.io/badge/EXPLORE_CODE-3498DB?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          &nbsp;
-          <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP/archive/refs/heads/main.zip">
-            <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center" style="border-radius:15px; border: 2px solid #9B59B6; padding: 25px; box-shadow: 0 6px 12px rgba(155, 89, 182, 0.2); height: 100%;">
-          <h3>🧮 Scientific Calculator (WinForms)</h3>
-          <p>Sophisticated mathematical engine with a Cinematic UI. Handles Trigonometry, Logarithms, and GCD.</p>
-          <img src="https://github.com/Oday-Alnaqep-CS/Calculator-App/raw/main/photo_2026-04-14_19-56-57.jpg" width="45%" style="border-radius:10px; border: 1px solid #9B59B6; padding: 5px;" />
-          <br /><br />
-          <img src="https://img.shields.io/badge/Logic-Math_Engine-9B59B6?style=flat-square" />
-          <img src="https://img.shields.io/badge/UI-Professional-black?style=flat-square" />
-          <br /><br />
-          <a href="https://github.com/Oday-Alnaqep-CS/Calculator-App" target="blank">
-            <img src="https://img.shields.io/badge/EXPLORE_CODE-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          &nbsp;
-          <a href="https://github.com/Oday-Alnaqep-CS/Calculator-App/archive/refs/heads/main.zip">
-            <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div style="width: 95%; border-radius:15px; border: 2px solid #3498DB; padding: 25px; box-shadow: 0 6px 12px rgba(52, 152, 219, 0.2);">
+    <h3>🏦 Advanced Bank Management System (OOP)</h3>
+    <p>An industrial-grade banking solution built with <b>C++</b>. It features a strict <b>Layered Architecture</b>, secure <b>RBAC</b> (Role-Based Access Control), and complex financial logic.</p>
+    <img src="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP/blob/main/Bank-Management-System-OOP/ScreenShot/photo_2026-04-08_21-53-06.jpg?raw=true" width="75%" style="border-radius:10px; border: 1px solid #3498DB;" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Architecture-Modular_OOP-3498DB?style=flat-square" />
+    <img src="https://img.shields.io/badge/Security-RBAC_Model-red?style=flat-square" />
+    <br /><br />
+    <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP" target="blank">
+      <img src="https://img.shields.io/badge/EXPLORE_CODE-3498DB?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Oday-Alnaqep-CS/Bank-Management-System-OOP/archive/refs/heads/main.zip">
+      <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
 </div>
-
----
 
 <br />
 
@@ -125,7 +99,7 @@
           <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="85%" style="border-radius:10px;" />
           <br /><br />
           <b>🎮 Rock-Paper-Scissors (Noir)</b>
-          <p>Desktop game with custom <b>C# WinForms</b> logic.</p>
+          <p>High-performance desktop game with custom <b>C# WinForms</b> logic.</p>
           <img src="https://img.shields.io/badge/Stack-C#%20%7C%20.NET-0e75b6?style=flat-square" />
           <br /><br />
           <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game" target="blank">
@@ -142,7 +116,7 @@
           <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="85%" style="border-radius:10px;" />
           <br /><br />
           <b>🤖 Tic-Tac-Toe AI System</b>
-          <p>Advanced AI logic with specialized predictive algorithms.</p>
+          <p>Advanced AI with specialized predictive algorithms and neon UI.</p>
           <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" />
           <br /><br />
           <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
