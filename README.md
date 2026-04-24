@@ -34,6 +34,13 @@
   <details>
     <summary><b>🚀 Select a Project to Explore & Download (Click to expand)</b></summary>
     <br>
+    <a href="https://github.com/Oday-Alnaqep-CS/To---Do---Lists" target="_blank">
+      <img src="https://img.shields.io/badge/📝_To_Do_List-Explore-00BFFF?style=for-the-badge&logo=csharp&logoColor=white" />
+    </a>
+    <a href="https://github.com/Oday-Alnaqep-CS/To---Do---Lists/archive/refs/heads/main.zip">
+      <img src="https://img.shields.io/badge/Download-ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <br><br>
     <a href="https://github.com/Oday-Alnaqep-CS/Calculator-App" target="_blank">
       <img src="https://img.shields.io/badge/🧮_Scientific_Calc-Explore-9B59B6?style=for-the-badge&logo=csharp&logoColor=white" />
     </a>
@@ -66,13 +73,29 @@
 
 ---
 
----
-
 ## <p align="center">🌟 Featured Masterpieces</p>
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="15">
     <tr>
+      <td width="50%" valign="top">
+        <div align="center" style="border-radius:15px; border: 2px solid #00BFFF; padding: 25px; box-shadow: 0 6px 12px rgba(0, 191, 255, 0.2); height: 100%;">
+          <h3>📝 Professional To-Do List</h3>
+          <p>Productivity management tool with a sleek <b>Neon UI</b>. Features task categorization and persistent storage.</p>
+          <img src="https://github.com/Oday-Alnaqep-CS/To---Do---Lists/blob/main/To%20-%20Do%20-%20Lists/photo_2026-04-24_22-59-20.jpg?raw=true" width="85%" style="border-radius:10px; border: 1px solid #00BFFF;" />
+          <br /><br />
+          <img src="https://img.shields.io/badge/UI-Neon_Noir-00BFFF?style=flat-square" />
+          <img src="https://img.shields.io/badge/Stack-C%23_WinForms-black?style=flat-square" />
+          <br /><br />
+          <a href="https://github.com/Oday-Alnaqep-CS/To---Do---Lists" target="blank">
+            <img src="https://img.shields.io/badge/EXPLORE_CODE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          &nbsp;
+          <a href="https://github.com/Oday-Alnaqep-CS/To---Do---Lists/archive/refs/heads/main.zip">
+            <img src="https://img.shields.io/badge/DOWNLOAD_ZIP-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+      </td>
       <td width="50%" valign="top">
         <div align="center" style="border-radius:15px; border: 2px solid #3498DB; padding: 25px; box-shadow: 0 6px 12px rgba(52, 152, 219, 0.2); height: 100%;">
           <h3>🏦 Advanced Bank System (OOP)</h3>
@@ -91,9 +114,20 @@
           </a>
         </div>
       </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<br />
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="15">
+    <tr>
       <td width="50%" valign="top">
         <div align="center" style="border-radius:15px; border: 2px solid #9B59B6; padding: 25px; box-shadow: 0 6px 12px rgba(155, 89, 182, 0.2); height: 100%;">
-          <h3>🧮 Scientific Calculator (WinForms)</h3>
+          <h3>🧮 Scientific Calculator</h3>
           <p>Sophisticated mathematical engine with a Cinematic UI. Handles Trigonometry, Logarithms, and GCD.</p>
           <img src="https://github.com/Oday-Alnaqep-CS/Calculator-App/raw/main/photo_2026-04-14_19-56-57.jpg" width="45%" style="border-radius:10px; border: 1px solid #9B59B6; padding: 5px;" />
           <br /><br />
@@ -109,19 +143,8 @@
           </a>
         </div>
       </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<br />
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="15">
-    <tr>
       <td width="50%" valign="top">
-        <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+        <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5); height: 100%;">
           <img src="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/blob/main/photo_2026-04-08_14-59-11.jpg?raw=true" width="85%" style="border-radius:10px;" />
           <br /><br />
           <b>🎮 Rock-Paper-Scissors (Noir)</b>
@@ -134,23 +157,6 @@
           &nbsp;
           <a href="https://github.com/Oday-Alnaqep-CS/Rock-Paper-Scissors-Game/archive/refs/heads/main.zip">
             <img src="https://img.shields.io/badge/DOWNLOAD-E67E22?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center" style="border-radius:15px; border: 2px solid #34495e; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-          <img src="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/blob/main/photo_%D9%A2%D9%A0%D9%A2%D9%A6-%D9%A0%D9%A4-%D9%A0%D9%A7_%D9%A1%D9%A9-%D9%A5%D9%A1-%D9%A3%D9%A3.jpg?raw=true" width="85%" style="border-radius:10px;" />
-          <br /><br />
-          <b>🤖 Tic-Tac-Toe AI System</b>
-          <p>Advanced AI logic with specialized predictive algorithms.</p>
-          <img src="https://img.shields.io/badge/Stack-C#%20%7C%20OOP-0e75b6?style=flat-square" />
-          <br /><br />
-          <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game" target="blank">
-            <img src="https://img.shields.io/badge/SOURCE-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          &nbsp;
-          <a href="https://github.com/Oday-Alnaqep-CS/Tic-Tac-Toe-Game/archive/refs/heads/main.zip">
-            <img src="https://img.shields.io/badge/DOWNLOAD-27AE60?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </div>
       </td>
